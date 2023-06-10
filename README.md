@@ -18,6 +18,6 @@ I am currently pursuing my Software Engineering degree at CUI Abbottabad Campus.
 
 ## Profile Views
 
-![Profile Views](https://example.com/profile_views.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=conspirici)
 
 Feel free to explore my repositories and connect with me. Let's collaborate and build amazing projects together! 🚀
