@@ -1,8 +1,7 @@
 ![Funimation GIF](https://media.giphy.com/media/Wc9tbE3MWpxwoeAkiY/giphy.gif)
 # <span style="font-family: 'Patrick Hand', cursive; font-weight: bold;">hii, I am Mansoor</span> <img align="centre" width="25" src="https://gifdb.com/images/file/cute-wave-emoji-hand-59s88kk0zj3xho40.gif">
 
-I am currently pursuing my Software Engineering degree at CUI Abbottabad Campus. My primary focus is on learning C and Solidity. However, I have a keen interest in web3 development and will be dedicating most of my time to it.
-
+I am currently pursuing my Software Engineering degree at CUI Abbottabad.
 ## Languages and Technologies
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=conspirici&show_icons=true&theme=radical)
