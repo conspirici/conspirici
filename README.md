@@ -1,8 +1,6 @@
 # <span style="font-family: 'Patrick Hand', cursive; font-weight: bold;">BONJOUR!</span>
 
-I am currently pursuing my Software Engineering degree at CUI Abbottabad Campus.
-
-## Profile Views
+Hii, I am Mansoor,I am currently pursuing my Software Engineering degree at CUI Abbottabad Campus.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=conspirici&color=green)
 
