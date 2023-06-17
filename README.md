@@ -1,3 +1,9 @@
-![Aesthetic Twitter Header](https://github.com/conspirici/conspirici/raw/main/assets/128182792/9b241270-4257-4cb7-8c9a-c3a74d170a72)
+# <span style="font-family: 'Patrick Hand', cursive; font-weight: bold;">BONJOUR!</span>
 
-A software engineer who loves building tools, design, typography, and Vocaloid.
+I am currently pursuing my Software Engineering degree at CUI Abbottabad Campus.
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=grey)
+
+Feel free to explore my repositories and connect with me. Let's collaborate and build amazing projects together! 🚀
